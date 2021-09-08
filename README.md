@@ -1,7 +1,5 @@
 # Blockene
-
-[Blockene](https://www.usenix.org/conference/osdi20/presentation/satija) algorithm simulation with Java
-
+Simulation of [Blockene](https://www.usenix.org/conference/osdi20/presentation/satija) algorithm with cache in Java language
 
 ## License
 
